@@ -34,7 +34,7 @@ export const buildData = Object.freeze([
       sr: 2,
     },
     date: Date.parse('2020-07-23T15:00:00+08:00'),
-    show: true,
+    show: false,
   },
   {
     desc: '蝶海梦花',
@@ -63,5 +63,14 @@ export const buildData = Object.freeze([
     },
     date: Date.parse('2020-11-26T15:00:00+08:00'),
     show: false,
+  },
+  {
+    desc: '新铁血活动',
+    buildList: {
+      ssr: 2,
+      sr: 2,
+    },
+    date: Date.parse('2020-11-29T00:00:00+08:00'),
+    show: true,
   },
 ])
