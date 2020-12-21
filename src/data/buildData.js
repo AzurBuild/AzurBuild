@@ -70,7 +70,7 @@ export const buildData = Object.freeze([
       ssr: 2,
       sr: 2,
     },
-    date: Date.parse('2020-11-29T00:00:00+08:00'),
+    date: Date.parse('2020-12-29T08:00:00+08:00'),
     show: true,
   },
 ])
